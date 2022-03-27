@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/giovanegomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanegomes&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanegomes&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -33,4 +33,8 @@
 
 ### 📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovane-aires-gomes-84504017b/) [![ContactMe](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](giovaneag33@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/giovaneaires#9009)
+<div>
+  <a href="https://www.linkedin.com/in/giovane-aires-gomes-84504017b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:giovaneag33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/giovaneaires#9009" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
