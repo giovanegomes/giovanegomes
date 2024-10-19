@@ -23,14 +23,6 @@
 
 <hr>
 
-### 🤓 I’m currently studying:
-- React & Redux;
-- React Native;
-- Ruby on Rails;
-- Typescript;
-
-<hr>
-
 ### 📫 How to reach me:
 
 <div>
